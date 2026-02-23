@@ -10,6 +10,11 @@ Second-year Programming student learning Kotlin, JavaScript and C# while buildin
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco%20Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
+## 🌱 Currently Working On
+- Building a responsive front-end project using HTML & CSS  
+- Learning Android development with Kotlin
+- Learning C# programming concepts  
+
 ## 📫 Contact
 LinkedIn: [https://linkedin.com/in/sara--belhadj](https://www.linkedin.com/in/sara--belhadj/)
 
