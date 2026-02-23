@@ -1,4 +1,4 @@
-# Hi 👋 I'm Sara 
+#                                   Hi 👋 I'm Sara 
 
 Second-year Programming student learning Kotlin, JavaScript and C# while building front-end projects.
 
