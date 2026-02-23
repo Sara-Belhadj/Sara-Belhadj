@@ -11,7 +11,7 @@ Second-year Programming student learning Kotlin, JavaScript and C# while buildin
 ![Cisco](https://img.shields.io/badge/Cisco%20Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
 ## 📫 Contact
-LinkedIn: [https://linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/sara--belhadj/)
+LinkedIn: [https://linkedin.com/in/sara--belhadj](https://www.linkedin.com/in/sara--belhadj/)
 
 <!--
 **Sara-Belhadj/Sara-Belhadj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
