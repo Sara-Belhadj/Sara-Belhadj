@@ -4,14 +4,11 @@ Second-year Programming student learning Kotlin, JavaScript and C# while buildin
 
 ## 🛠️ Tech Stack
 
-![JAVA](https://img.shields.io/badge/JAVA-0f172a?style=for-the-badge&logo=openjdk&logoColor=white)
-![KOTLIN](https://img.shields.io/badge/KOTLIN-0f172a?style=for-the-badge&logo=kotlin&logoColor=white)
-![C%23](https://img.shields.io/badge/C%23-0f172a?style=for-the-badge&logo=csharp&logoColor=white)
-![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-0f172a?style=for-the-badge&logo=javascript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-0f172a?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-0f172a?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-0f172a?style=for-the-badge&logo=postgresql&logoColor=white)
-![CISCO](https://img.shields.io/badge/CISCO%20NETWORKING-0f172a?style=for-the-badge&logo=cisco&logoColor=white)
+![Java](https://img.shields.io/badge/JAVA-0f172a?style=for-the-badge&logo=openjdk&logoColor=orange)
+![HTML5](https://img.shields.io/badge/HTML5-0f172a?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0f172a?style=for-the-badge&logo=css3&logoColor=1572B6)
+![SQL](https://img.shields.io/badge/SQL-0f172a?style=for-the-badge&logo=postgresql&logoColor=336791)
+![Cisco](https://img.shields.io/badge/CISCO%20NETWORKING-0f172a?style=for-the-badge&logo=cisco&logoColor=1BA0D7)
 
 <!--
 **Sara-Belhadj/Sara-Belhadj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
