@@ -1,4 +1,13 @@
-## Hi there 👋
+# Hi 👋 I'm Sara 
+
+Second-year Programming student learning Kotlin, JavaScript and C# while building front-end projects.
+
+## 🛠️ Tech Stack
+- Java
+- HTML5
+- CSS3
+- SQL
+- Networking (Cisco)
 
 <!--
 **Sara-Belhadj/Sara-Belhadj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +23,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
