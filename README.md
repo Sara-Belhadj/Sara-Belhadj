@@ -3,7 +3,7 @@
 Second-year Programming student learning Kotlin, JavaScript and C# while building front-end projects.
 
 ## 🌱 Currently Working On
-- Building a responsive front-end project using HTML & CSS  
+- Building a responsive front-end project using HTML & CSS & JavaScript 
 - Learning Android development with Kotlin
 - Learning C# programming concepts
 
