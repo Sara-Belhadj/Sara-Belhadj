@@ -1,6 +1,6 @@
 # Hi 👋 I'm Sara
 
-Second-year Programming student learning Kotlin, JavaScript and C# while building front-end projects.
+Third-year Programming student learning Swift, PHP and C# while building front-end projects.
 
 ## 🌱 Currently Working On
 - Building a responsive front-end project using HTML & CSS & JavaScript 
