@@ -1,15 +1,13 @@
 ## ☕ Current Status
 
-```javascript
-const sara = {
-    studying: "Web & Mobile Development",
-    currentlyBuilding: "Cool things for the web",
-    learning: ["Swift", "PHP", "C#"],
-    interests: ["Web", "Mobile", "Game Dev"],
-    fueledBy: "☕",
-    status: "probably debugging..."
-};
-```
+🎓 **Studying:** Web & Mobile Development  
+🚀 **Currently building:** Cool things for the web  
+📱 **Exploring:** Swift, PHP & C#  
+💡 **Interested in:** Web, Mobile & Game Development  
+☕ **Fueled by:** Coffee  
+🐛 **Status:** Probably debugging...
+
+---
 
 ## 📫 Contact Me
 
