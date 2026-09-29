@@ -1,11 +1,18 @@
 # Hi 👋 I'm Sara
 
-Third-year Programming student learning Swift, PHP and C# while building front-end projects.
+Third-year Programming student specializing in Web & Mobile Development.
 
-## 🌱 Currently Working On
-- Building a responsive front-end project using HTML & CSS & JavaScript 
-- Learning IOS development with Xcode
-- Learning C# programming concepts
+## ☕ Current Status
+
+```javascript
+const sara = {
+    studying: "Web & Mobile Development",
+    currentlyBuilding: "Cool things for the web",
+    learning: ["Swift", "PHP", "C#"],
+    interests: ["Web", "Mobile", "Game Dev"],
+    fueledBy: "☕",
+    status: "probably debugging..."
+};
 
 ## 📫 Contact Me
 
