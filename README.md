@@ -1,7 +1,3 @@
-# Hi 👋 I'm Sara
-
-Third-year Programming student specializing in Web & Mobile Development.
-
 ## ☕ Current Status
 
 ```javascript
@@ -13,6 +9,15 @@ const sara = {
     fueledBy: "☕",
     status: "probably debugging..."
 };
+```
+
+## 📫 Contact Me
+
+[![Email](https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+
+## 🛠️ Languages and Tools
 
 ## 📫 Contact Me
 
