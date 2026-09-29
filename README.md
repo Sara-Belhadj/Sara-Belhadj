@@ -1,3 +1,9 @@
+<h1 align="center">Hi 👋, I'm Sara</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Web+%26+Mobile+Development;Building+cool+things+with+code;Always+learning+something+new+%E2%9C%A8" />
+</p>
+
 ## ☕ Current Status
 
 🎓 **Studying:** Web & Mobile Development  
