@@ -49,5 +49,5 @@ Third-year Programming student learning Swift, PHP and C# while building front-e
 
 ## 👀 Profile Views
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Sara-Belhadj&label=PROFILE+VIEWS&style=for-the-badge)
 
